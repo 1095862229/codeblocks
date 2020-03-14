@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505461060 source:e:\测试代码\code\链表\list.cpp
+	<stdio.h>
+	<malloc.h>
+	"list.h"
+
+1505461384 e:\测试代码\code\链表\list.h
+

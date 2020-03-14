@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522231896 source:e:\测试代码\code block\新建文件夹\tem\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+

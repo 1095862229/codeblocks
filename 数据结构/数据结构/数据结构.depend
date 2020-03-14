@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1513084521 source:e:\测试代码\code block\数据结构\数据结构\list\malloc.cpp
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+
+1513085774 e:\测试代码\code block\数据结构\数据结构\list\malloc.h
+
+1513086029 source:e:\测试代码\code block\数据结构\数据结构\list\list.cpp
+	<stdio.h>
+	<malloc.h>
+	"list.h"
+
+1513086029 e:\测试代码\code block\数据结构\数据结构\list\list.h
+
+1513229652 source:e:\测试代码\code block\数据结构\数据结构\list.cpp
+	<stdio.h>
+	<malloc.h>
+	"list.h"
+
+1513229540 e:\测试代码\code block\数据结构\数据结构\list.h
+
+1514438877 source:e:\测试代码\code block\数据结构\数据结构\main.cpp
+	"sqstack.h"
+	<stdio.h>
+
+1513252889 source:e:\测试代码\code block\数据结构\数据结构\linklist.cpp
+	<stdio.h>
+	<malloc.h>
+	"linklist.h"
+
+1513252959 e:\测试代码\code block\数据结构\数据结构\linklist.h
+
+1514032456 source:e:\测试代码\code block\数据结构\数据结构\sort.cpp
+	"sort.h"
+	<stdio.h>
+
+1513603879 e:\测试代码\code block\数据结构\数据结构\sort.h
+	<malloc.h>
+
+1514032362 source:e:\测试代码\code block\数据结构\数据结构\dlinklist.cpp
+	"dlinklist.h"
+	<stdio.h>
+	<malloc.h>
+
+1513927324 e:\测试代码\code block\数据结构\数据结构\dlinklist.h
+
+1514438877 e:\测试代码\code block\数据结构\数据结构\sqstack.h
+
